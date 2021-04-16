@@ -272,6 +272,11 @@
 
 }
 
+.feynman__link:hover {
+  color: violet;
+  cursor: pointer;
+}
+
 .feynman__img {
   position: absolute;
   left: 0;
