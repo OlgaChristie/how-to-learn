@@ -6,5 +6,6 @@
     display: flex;
     position: relative;
     margin-bottom: 100px;
+    overflow: hidden;
   }
   
